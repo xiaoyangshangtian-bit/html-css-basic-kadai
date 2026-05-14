@@ -1,0 +1,15 @@
+body{font-family:"Arial","Meryo", "sans-serif"}
+parent‐element{font: size 20px;}
+.blue{color: skyblue;}
+.pink{color:rgb(255, 192,203);}
+
+h1{font-family: "josefin serif",sans-serif; 
+font-size: 2rem;
+letter-spacing: 1.2em;
+text-shadow: 2px,2px,4px,rgba(0, 0, 0,0.15);
+border-bottom: 3px solid rgb(115,115, 114);}
+
+.container{text-align: center;}
+
+:nth-child(1,2,3).decoration{font-weight: bold;}
+
