@@ -17,7 +17,7 @@ display: inline-block;
    width:800px;
   height:800px;
   　margin: top 20px;
- margin-bottom: 20px;
+ margin-bottom:20px;
 margin-left: auto;
   margin-right: auto;
 background-color:#ffd9df;} 
@@ -29,29 +29,29 @@ background-color:#ffd9df;}
 #middle{position:relative}
 middle<middle-child01{ 
   position:absolute;
-   top: 100px;
-   left: 100px;}
+   top:100px;
+   left:100px;}
 
 div<middle-child01{
     position:absolute;
-   top: 100px;
-   left: 300px;
+   top:100px;
+   left:300px;
 
    }
 
 
 div<middle-child01{
     position:absolute;
-   top: 500px;
-   left: 500px;
+   top:500px;
+   left:500px;
    }
 
   #bottom{
     width: 800px;
     height:300px;
-    margin-left: auto;
-  margin-right: auto;
-  background: color #87ceeb;
+    margin-left:auto;
+  margin-right:auto;
+  background:color #87ceeb;
   }
 div>bottom-child01 bottom-child02 bottom-child03{
     width: 400px;
