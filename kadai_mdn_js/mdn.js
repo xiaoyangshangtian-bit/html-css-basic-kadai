@@ -1,7 +1,7 @@
-const new = new Date();
+const now = now Date();
 
-const year = now.getfullyear();
-const month =now.getmonth()+1.;
-const Date = now.getdate();
+const year = now.getMFullyear();
+const month =now.getMonth()+1;
+const Date = now.getDateate();
 
-console.log(${year}年${month}月${date}日);
+console.log(${year}年+${month}月+${date}日)
